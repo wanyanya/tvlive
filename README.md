@@ -5,8 +5,9 @@
 
 # 🌐网址：
 - 仓库/线路推送地址：
-  - https://w6566.github.io/tvlive/wj.json](https://jihulab.com/wanyan/tvlive/-/raw/main/wj.json?ref_type=heads
-- 直播源推送地址：
+  - https://jihulab.com/wanyan/tvlive/-/raw/main/wj.json?ref_type=heads
+  - https://gitee.com/wei-shenghua/tvlive/raw/main/wj.json
+- 直播源推送地址：https://gitee.com/wei-shenghua/tvlive/raw/main/box/live/live.txt
 
 
   
