@@ -12,7 +12,7 @@
 - https://gitee.com/wei-shenghua/tvlive/raw/main/box/live/live.txt
 - https://gitee.com/wei-shenghua/tvlive/raw/main/ipv6.m3u
 - https://gitee.com/wei-shenghua/tvlive/raw/main/Default.m3u
-- wanyanya.github.io/box/live/live.txt
+- https://wanyanya.github.io/box/live/live.txt
 
 
   
