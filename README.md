@@ -7,7 +7,10 @@
 - 仓库/线路推送地址：
   - https://jihulab.com/wanyan/tvlive/-/raw/main/wj.json?ref_type=heads
   - https://gitee.com/wei-shenghua/tvlive/raw/main/wj.json
-- 直播源推送地址：https://gitee.com/wei-shenghua/tvlive/raw/main/box/live/live.txt
+- 直播源推送地址：
+- https://gitee.com/wei-shenghua/tvlive/raw/main/box/live/live.txt
+- https://gitee.com/wei-shenghua/tvlive/raw/main/ipv6.m3u
+- https://gitee.com/wei-shenghua/tvlive/raw/main/Default.m3u
 
 
   
@@ -20,7 +23,5 @@
      
 # 📖声明：
 - 资源来源于网络，仅供学习交流。
-
-
 
 
