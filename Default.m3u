@@ -1,7 +1,7 @@
 #EXTM3U
 #EXT-X-APP APTV
 #EXT-X-APTV-TYPE remote
-#EXT-X-SUB-URL https://datone.github.io/tvlive/box/live/live.txt
+#EXT-X-SUB-URL https://datone.github.io/tvlive/Default.m3u
 
 #EXTINF:-1 group-title="🇨🇳央视频道",CCTV-1
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001022/index.m3u8
